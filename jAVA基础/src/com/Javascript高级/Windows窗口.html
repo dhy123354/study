@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input id="openBtn" type="button" value="打开窗口">
+<input id="closeBtn" type="button" value="关闭窗口">
+<script>
+  // alert("hello window");
+  // window.alert("hello a")
+  // var flag = confirm("您确定要退出吗？");
+  //
+  // if(flag){
+  //   //退出操作
+  //
+  //   alert("欢迎再次光临！");
+  // }else{
+  //   //提示：手别抖...
+  //   alert("手别抖...");
+  // }
+
+  // var result =  prompt("请输入用户名");
+  // alert(result);
+  var openBtn = document.getElementById("openBtn");
+  var newWindow;
+  openBtn.onclick = function(){
+    //打开新窗口
+    newWindow = open("https://www.baidu.com");
+  }
+
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ajax&amp;Json/Ajax&amp;Json.iml" filepath="$PROJECT_DIR$/Ajax&amp;Json/Ajax&amp;Json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JQuery/JQuery.iml" filepath="$PROJECT_DIR$/JQuery/JQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JQuery2/JQuery2.iml" filepath="$PROJECT_DIR$/JQuery2/JQuery2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVM/JVM.iml" filepath="$PROJECT_DIR$/JVM/JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JaveWeb.iml" filepath="$PROJECT_DIR$/JaveWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring面试/Spring.iml" filepath="$PROJECT_DIR$/Spring面试/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEB/WEB.iml" filepath="$PROJECT_DIR$/WEB/WEB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jAVA基础/untitled.iml" filepath="$PROJECT_DIR$/jAVA基础/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/蓝桥实训/蓝桥实训.iml" filepath="$PROJECT_DIR$/蓝桥实训/蓝桥实训.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面试/面试.iml" filepath="$PROJECT_DIR$/面试/面试.iml" />
+    </modules>
+  </component>
+</project>

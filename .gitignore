@@ -1,0 +1,7 @@
+# Project exclude paths
+/Ajax&Json/web/WEB-INF/class/
+/out/
+/redis/web/WEB-INF/class/
+/Spring面试/target/
+/蓝桥实训/target/
+/面试/target/
